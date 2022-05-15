@@ -1,6 +1,7 @@
 # cad_project
 
-A new Flutter project.
+A Computer Aided Design Course project.
+
 
 ## Getting Started
 
